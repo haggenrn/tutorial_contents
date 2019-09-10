@@ -1,0 +1,2 @@
+Issues that have been encountered during vector tutorial: module 'geopandas' has no attribute 'points_from_xy' in geopandas_intro.ipynb, and No module named 'no module named 'folium' in geopandas_advanced.ipyn. 
+These issues arose even when vector environment configuration was installed from github forked repo.
